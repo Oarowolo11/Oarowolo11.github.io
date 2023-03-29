@@ -24,4 +24,4 @@ I am a PhD candidate in the [IEPG](https://www.tudelft.nl/ewi/over-de-faculteit/
 My general research area is applied machine learning for management and control of power grids. Currently, I am investigating geometric deep learning for electromagnetic transients simulation in power grids. 
  <!-- `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/olayiwola-arowolo/) or check out my latest publications on [ORCID](https://orcid.org/0000-0002-9948-1013)
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/olayiwola-arowolo/) and check out my latest publications on [ORCID](https://orcid.org/0000-0002-9948-1013)
