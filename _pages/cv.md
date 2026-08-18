@@ -9,37 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/Olayiwola_Arowolo_CV.pdf" class="btn btn--primary">Download CV (PDF)</a>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Electrical Engineering, Delft University of Technology, 2023–present (final year)
+  * Intelligent Electrical Power Grids group, Delft AI Energy Lab
+  * Topic: graph-based machine learning for power system operation
+  * Supervisor: Dr. Jochen Cremer
+* M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2022
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023–present: PhD researcher, Delft AI Energy Lab, TU Delft
+  * Graph neural networks for AC optimal power flow, machine learning surrogates for time-domain/EMT simulation, learning-accelerated stochastic scheduling
+* 2022: Research intern (CaCTüS programme), RoLi Lab, Max Planck Institute for Biological Cybernetics, Tübingen, Germany
+  * Improved the real-time tracking algorithm of the first freely swimming larval zebrafish tracking microscope
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine learning: PyTorch, PyTorch Geometric, graph neural networks, physics-informed learning
+* Programming: Python, MATLAB, Git
+* Power systems: power flow and optimal power flow, EMT/time-domain simulation, dynamic security assessment
 
 Publications
 ======
@@ -58,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
