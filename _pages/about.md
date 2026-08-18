@@ -25,6 +25,6 @@ Power grids are also arguably the most safety critical infrastructure in the wor
 Open to job opportunities
 ======
 
-I will complete my PhD soon and am open to **research scientist, machine learning engineer, and postdoctoral positions** in both industry and academia — anywhere machine learning meets energy systems, dynamic simulation, or large-scale optimization. My day-to-day toolkit is Python, PyTorch, and PyTorch Geometric, alongside power-system simulation tools.
+I will complete my PhD soon and I am open to **research scientist, machine learning engineer, and postdoctoral positions** in both industry and academia — anywhere machine learning meets energy systems, dynamic simulation, or large-scale optimization. My day-to-day toolkit is Python, PyTorch, and PyTorch Geometric, alongside power-system simulation tools.
 
 Please reach out via [email](mailto:o.a.arowolo@tudelft.nl) or [LinkedIn](https://www.linkedin.com/in/olayiwola-arowolo/), and see my [CV](/cv/) and [publications](/publications/).
