@@ -1,13 +1,11 @@
 ---
-title: "Teaching Assistant, College of Engineering"
+title: "Teaching Assistant, CMU-Africa"
 collection: teaching
 type: "Teaching assistant"
 permalink: /teaching/2022-cmu-teaching-assistant
-venue: "Carnegie Mellon University, College of Engineering"
-date: 2022-01-01 # TODO: confirm semester
-location: "Pittsburgh, PA, USA"
+venue: "Carnegie Mellon University Africa"
+date: 2022-10-01
+location: "Kigali, Rwanda"
 ---
 
-<!-- TODO (Olayiwola): add course name(s) and duties; add any TU Delft teaching/supervision -->
-
-Teaching assistant in the College of Engineering at Carnegie Mellon University during my MS in Electrical and Computer Engineering.
+Teaching assistant for the Photovoltaic Systems Engineering course by Prof. Barry Rawn (Oct–Dec 2022).

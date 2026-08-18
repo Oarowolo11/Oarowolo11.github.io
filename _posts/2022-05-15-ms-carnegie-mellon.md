@@ -6,4 +6,4 @@ tags:
   - milestones
 ---
 
-I was awarded a Master of Science in Electrical and Computer Engineering by Carnegie Mellon University.
+I have completed my Master of Science in Electrical and Computer Engineering at Carnegie Mellon University.
