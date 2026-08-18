@@ -19,12 +19,16 @@ Education
   * Supervisor: Dr. Jochen Cremer
 * M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2022
 
-Research experience
+Experience
 ======
 * 2023–present: PhD researcher, Delft AI Energy Lab, TU Delft
-  * Graph neural networks for AC optimal power flow, machine learning surrogates for time-domain/EMT simulation, learning-accelerated stochastic scheduling
-* 2022: Research intern (CaCTüS programme), RoLi Lab, Max Planck Institute for Biological Cybernetics, Tübingen, Germany
+  * Predicting electromagnetic transients in low-inertia power grids with graph neural networks; GNNs for AC optimal power flow; learning-accelerated stochastic scheduling
+  * Collaborating with industry partners and other researchers on learning power system dynamics with machine learning
+* Jul–Sep 2022: Machine Learning Intern (CaCTüS programme), RoLi Lab, Max Planck Institute for Biological Cybernetics, Tübingen, Germany
   * Improved the real-time tracking algorithm of the first freely swimming larval zebrafish tracking microscope
+* May–Jul 2022: Data Science Intern, Plentify, Cape Town, South Africa
+* 2022: Teaching Assistant, College of Engineering, Carnegie Mellon University, Pittsburgh, USA
+* 2020–2021: Data Science Instructor, Robotics and Artificial Intelligence Nigeria, Ibadan, Nigeria
 
 Skills
 ======

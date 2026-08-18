@@ -1,6 +1,6 @@
 ---
 title: 'Completed the CaCTüS internship at the RoLi Lab, Max Planck Institute for Biological Cybernetics'
-date: 2022-09-23
+date: 2022-09-29
 permalink: /posts/2022/09/cactus-internship-mpi/
 tags:
   - internships
