@@ -13,8 +13,7 @@ title                    : "Olayiwola Arowolo"
 title_separator          : "-"
 name                     : &name "Olayiwola F. Arowolo"
 description              : &description "Machine learning for power systems — PhD candidate at the Delft AI Energy Lab, TU Delft"
-url                      : https://oarowolo11.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                        # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://olayiwola-arowolo.com # custom domain (CNAME file at repo root); GitHub redirects oarowolo11.github.io here
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Oarowolo11/Oarowolo11.github.io"
 

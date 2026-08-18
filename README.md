@@ -1,6 +1,6 @@
 # Olayiwola Arowolo — personal academic website
 
-Live at **https://oarowolo11.github.io**.
+Live at **https://olayiwola-arowolo.com** (also reachable via oarowolo11.github.io, which redirects).
 
 Built with the [AcademicPages](https://github.com/academicpages/academicpages.github.io) Jekyll template (a fork of Minimal Mistakes) and hosted on GitHub Pages, which builds the site automatically from the `master` branch.
 
