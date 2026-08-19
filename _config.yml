@@ -167,6 +167,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - images/carousel/originals # full-size photo archive: stored in the repo, never published to the site
   - .asset-cache
   - .bundle
   - .github
