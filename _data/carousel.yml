@@ -1,0 +1,29 @@
+# Photos cycling on the homepage. Each entry: image (path from site root),
+# caption, and optional link (usually the related news post).
+- image: /images/carousel/Zurich.jpeg
+  caption: "In Zurich — open to new opportunities"
+  link: /posts/2026/08/final-year-job-market/
+- image: /images/carousel/IREP_photo_2.JPG
+  caption: "Presenting at IREP 2025 in Sorrento, Italy"
+  link: /posts/2025/07/irep-2025-presentation/
+- image: /images/carousel/IREP_photo.jpeg
+  caption: "At IREP 2025 in Sorrento, Italy"
+  link: /posts/2025/07/irep-2025-presentation/
+- image: /images/carousel/TU_Delft_start.jpeg
+  caption: "Starting my PhD at TU Delft (2023)"
+  link: /posts/2023/01/phd-tu-delft/
+- image: /images/carousel/NHEF_photo.jpg
+  caption: "NHEF event" # TODO (Olayiwola): describe this photo
+- image: /images/carousel/Max_planck_ring.jpeg
+  caption: "CaCTüS internship at the Max Planck Institute, Tübingen (2022)"
+  link: /posts/2022/09/cactus-internship-mpi/
+- image: /images/carousel/CMU_graduation.JPG
+  caption: "MS graduation at Carnegie Mellon University (2022)"
+  link: /posts/2022/05/ms-carnegie-mellon/
+- image: /images/carousel/CMU_graduation_2.JPG
+  caption: "MS graduation at Carnegie Mellon University (2022)"
+  link: /posts/2022/05/ms-carnegie-mellon/
+- image: /images/carousel/UI_graduation.JPG
+  caption: "B.Sc. graduation at the University of Ibadan (2020)"
+- image: /images/carousel/UI_graduation_2.JPG
+  caption: "B.Sc. graduation at the University of Ibadan (2020)"

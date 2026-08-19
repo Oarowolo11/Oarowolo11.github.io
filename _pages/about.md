@@ -11,6 +11,8 @@ I am a final-year PhD candidate in the [Intelligent Electrical Power Grids (IEPG
 
 Outside of work, I enjoy cycling and watching football.
 
+{% include photo-carousel.html %}
+
 Research
 ======
 
