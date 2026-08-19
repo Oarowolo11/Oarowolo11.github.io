@@ -3,7 +3,8 @@
   .home-carousel { position: relative; width: 100%; aspect-ratio: 16 / 10; max-height: 420px; overflow: hidden; border-radius: 6px; margin: 0 0 1.5em 0; background: #f2f2f2; }
   .home-carousel__slide { position: absolute; inset: 0; opacity: 0; transition: opacity 0.9s ease; pointer-events: none; }
   .home-carousel__slide.is-active { opacity: 1; pointer-events: auto; }
-  .home-carousel__slide img { width: 100%; height: 100%; object-fit: cover; object-position: center 30%; display: block; }
+  .home-carousel__slide img.home-carousel__bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: blur(18px) brightness(0.8); transform: scale(1.12); }
+  .home-carousel__slide img.home-carousel__fg { position: relative; width: 100%; height: 100%; object-fit: contain; display: block; }
   .home-carousel__caption { position: absolute; left: 0; right: 0; bottom: 0; padding: 0.4em 0.8em; font-size: 0.75em; color: #fff; background: linear-gradient(transparent, rgba(0,0,0,0.65)); text-align: left; }
   .home-carousel__slide a { color: inherit; text-decoration: none; }
   .home-carousel__dots { position: absolute; bottom: 0.4em; right: 0.8em; display: flex; gap: 6px; z-index: 2; }
@@ -15,7 +16,8 @@
   {% for slide in site.data.carousel %}
   <figure class="home-carousel__slide{% if forloop.first %} is-active{% endif %}">
     {% if slide.link %}<a href="{{ base_path }}{{ slide.link }}">{% endif %}
-      <img src="{{ base_path }}{{ slide.image }}" alt="{{ slide.caption }}"{% unless forloop.first %} loading="lazy"{% endunless %}>
+      <img class="home-carousel__bg" src="{{ base_path }}{{ slide.image }}" alt="" aria-hidden="true"{% unless forloop.first %} loading="lazy"{% endunless %}>
+      <img class="home-carousel__fg" src="{{ base_path }}{{ slide.image }}" alt="{{ slide.caption }}"{% unless forloop.first %} loading="lazy"{% endunless %}>
       <figcaption class="home-carousel__caption">{{ slide.caption }}</figcaption>
     {% if slide.link %}</a>{% endif %}
   </figure>
