@@ -1,8 +1,12 @@
 # Photos cycling on the homepage. Each entry: image (path from site root),
 # caption, and optional link (usually the related news post).
-- image: /images/carousel/Zurich.jpeg
-  caption: "Meandering through Zurich"
+- image: /images/carousel/In_strasbourg.jpeg
+  caption: "In Strasbourg"
   link: /posts/2026/08/final-year-job-market/
+- image: /images/carousel/In_paris.jpeg
+  caption: "In Paris"
+- image: /images/carousel/at_GridFM_workshop_aachen.jpeg
+  caption: "At the GridFM workshop in Aachen"
 - image: /images/carousel/IREP_photo_2.JPG
   caption: "Presenting at IREP 2025 in Sorrento, Italy"
   link: /posts/2025/07/irep-2025-presentation/
