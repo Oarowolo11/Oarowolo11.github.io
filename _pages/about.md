@@ -17,10 +17,10 @@ Research
 ======
 
 My research develops machine learning (ML) methods for the operation of electrical power grids, with a focus on **generalization of ML models**. Power grids are large and complex systems, constantly subjected to changes in operating conditions and network configurations.
-Power grids are also arguably the most safety critical infrastructure in the world, with reliability and safety of paramount importance. Naturally, these conditions create new challenges for applied machine learning in power grids, different from language, vision and biology domains. In my research, I explore the use of graph neural networks (GNNs), a class of models that can exploit the grid structure to learn models that generalize across operating conditions and network topologies. I apply GNNs and other ML methods to computational problems in power grid operation:
+Power grids are also arguably the most safety critical infrastructure in the world, with reliability and safety of paramount importance. Naturally, these conditions create new challenges for applied machine learning in power grids, different from language, vision and biology domains. In my research, I explore the use of graph neural networks (GNNs), a class of models that can exploit the grid structure to learn models that generalize across operating conditions and network topologies. I have applied GNNs and other ML methods to computational problems in power grid operation:
 
 * **AC optimal power flow** — GNNs that generalize across grid topologies and operating points ([Energy and AI, 2026](https://doi.org/10.1016/j.egyai.2026.100842); [ISGT Europe 2025](https://doi.org/10.1109/ISGTEurope64741.2025.11305408))
-* **Time-domain simulation and Dynamic security assessment** — machine learning surrogates that accelerate the simulations grid operators rely on ([SEGAN, 2025](https://doi.org/10.1016/j.segan.2025.101908); [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7302183))
+* **Time-domain simulation and Dynamic security assessment** — machine learning surrogates that accelerate the simulations grid operators rely on ([SEGAN, 2025](https://doi.org/10.1016/j.segan.2025.101908); [SSRN Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7302183))
 * **Stochastic scheduling and optimization** — learning-accelerated optimization method for stochastic power system scheduling ([IEEE Transactions on Sustainable Energy, 2025](https://doi.org/10.1109/TSTE.2025.3562640))
 
 

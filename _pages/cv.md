@@ -32,8 +32,9 @@ Experience
 
 Skills
 ======
-* Machine learning: PyTorch, PyTorch Geometric, Graph neural networks, Physics-informed learning, operator learning
-* Programming: Python, MATLAB, Git
+* Machine learning: PyTorch, PyTorch Geometric, Graph neural networks, physics-informed learning, operator learning
+* Software engineering: Python, Julia, MATLAB, AWS, Certified Scrum Master, Git
+* Data Analytics: Tableau, Power BI, SQL
 * Power Systems: Power flow and optimal power flow, time-domain simulation, dynamic security assessment
 
 Publications
